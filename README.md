@@ -1,11 +1,23 @@
-<p align="center"><a href="https://www.facebook.com/mdshahmakhdum.shajon"><img width="65%" alt="Hello, I'm SHAJON. I love coding :)" src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/refs/heads/main/assests/SHAJON.png" /></a></p>
+<p align="center">
+  <a href="https://www.facebook.com/mdshahmakhdum.shajon">
+    <img width="65%" alt="Hello, I'm SHAJON. I love coding :)" src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/refs/heads/main/assests/SHAJON.png" />
+  </a>
+</p>
 
+###
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHAJON-404&locale=en&hide_title=false&layout=compact&card_width=391&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SHAJON-404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-</div>
+<p align="center">
+  <table>
+    <tr>
+      <td width="368">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHAJON-404&locale=en&hide_title=false&layout=compact&card_width=391&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph" />
+      </td>
+      <td width="368">
+        <img src="https://github-readme-stats.vercel.app/api?username=SHAJON-404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 ###
 
