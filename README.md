@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <td width="368">
@@ -17,7 +17,7 @@
       </td>
     </tr>
   </table>
-</p>
+</div>
 
 ###
 
