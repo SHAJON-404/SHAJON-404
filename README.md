@@ -3,8 +3,7 @@
     <img width="65%" alt="Hello, I'm SHAJON. I love coding :)" src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/refs/heads/main/assests/SHAJON.png" />
   </a>
 </p>
-
-###
+<p align="center"><img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/Rainbow.gif" width="100%"></p>
 
 <div align="center">
   <table style="border-spacing: 1px;">
@@ -18,8 +17,7 @@
     </tr>
   </table>
 </div>
-
-###
+<p align="center"><img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/Rainbow.gif" width="100%"></p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -33,8 +31,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
 </div>
 
-###
+<p align="center"><img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/Rainbow.gif" width="100%"></p>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+<p align="center"><img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/Rainbow.gif" width="100%"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/thank_you.jpg" width="100%"></p>
