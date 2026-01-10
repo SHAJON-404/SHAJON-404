@@ -11,18 +11,22 @@
 </p>
 
 <div align="center">
-  <table style="border-spacing: 1px;">
-    <tr>
-      <td width="366" style="padding: 1px; border: 1px solid #ddd;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHAJON-404&locale=en&hide_title=false&layout=compact&card_width=391&langs_count=5&theme=dracula&hide_border=false" height="140" width="100%" alt="languages graph" />
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%; max-width: 850px;">
+    <tr style="border: none;">
+      <td colspan="2" align="center" style="border: none; padding: 4px;">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHAJON-404&theme=dracula" alt="profile details" width="100%" style="max-width: 100%;" />
       </td>
-      <td width="368" style="padding: 1px; border: 1px solid #ddd;">
-        <img src="https://github-readme-stats.vercel.app/api?username=SHAJON-404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" width="100%" alt="stats graph" />
+    </tr>
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 4px; width: 50%;">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHAJON-404&theme=dracula" alt="repos per language" width="100%" style="max-width: 100%;" />
+      </td>
+      <td align="center" style="border: none; padding: 4px; width: 50%;">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHAJON-404&theme=dracula" alt="most commit language" width="100%" style="max-width: 100%;" />
       </td>
     </tr>
   </table>
 </div>
-
 <p align="center">
   <a href="https://www.facebook.com/mdshahmakhdum.shajon">
   <img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/Rainbow.gif" width="100%">
