@@ -1,14 +1,25 @@
 <p align="center">
   <a href="https://www.facebook.com/mdshahmakhdum.shajon">
-    <img width="65%" alt="Hello, I'm SHAJON. I love coding :)" src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/refs/heads/main/assests/SHAJON.png" />
+    <img width="65%" alt="Hello, I'm SHAJON. I love coding :)" src="https://raw.githubusercontent.com/shajon-dev/shajon-dev/refs/heads/main/assests/SHAJON.png" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.facebook.com/mdshahmakhdum.shajon">
-  <img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/Rainbow.gif" width="100%">
+    <img src="https://raw.githubusercontent.com/shajon-dev/shajon-dev/main/assests/Rainbow.gif" width="100%">
   </a>
 </p>
+
+### 🧑‍💻 What can I do?
+
+- Android App Reverse Engineering  
+- iOS App Reverse Engineering  
+- SSL Pinning Bypass [Android & iOS]
+- REST API Development (official & unofficial)  
+- Website Development (Python Flask, FastAPI, TailwindCSS, JavaScript)  
+- **Automation & Bot Development (API-based & Browser-based)**  
+- UI/UX Development  
+- Website Scraping
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%; max-width: 850px;">
