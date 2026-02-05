@@ -23,6 +23,19 @@
 - Instagram Account B@N & Unb@n
 - Facebook Account/Page B@N & Unb@n
 
+### What I’ve Done So Far
+- Please check: [https://tools.shajon.dev](https://tools.shajon.dev)
+- Please check: [https://api.shajon.dev](https://api.shajon.dev)
+- Please check: [https://sms.shajon.dev](https://sms.shajon.dev)
+- Instagram Bulk Account Creator  
+- Facebook Bulk Account & Page Creator
+- Removed 3,000+ Facebook and 9,000+ accounts (Ban Task)  
+- Recovered 8,000+ Facebook and 13,000+ Instagram accounts
+- Plus many more private tasks for my clients  
+
+### Availability
+- I am available for any type of remote job.
+
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%; max-width: 850px;">
     <tr style="border: none;">
