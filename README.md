@@ -20,6 +20,8 @@
 - **Automation & Bot Development (API-based & Browser-based)**  
 - UI/UX Development  
 - Website Scraping
+- Instagram Account B@N & Unb@n
+- Facebook Account/Page B@N & Unb@n
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%; max-width: 850px;">
