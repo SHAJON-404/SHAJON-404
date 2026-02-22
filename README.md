@@ -24,6 +24,7 @@
 - Facebook Account/Page B@N & Unb@n
 
 ### What I’ve Done So Far
+- Please check: [https://payments.shajon.dev](https://payments.shajon.dev)
 - Please check: [https://tools.shajon.dev](https://tools.shajon.dev)
 - Please check: [https://api.shajon.dev](https://api.shajon.dev)
 - Please check: [https://sms.shajon.dev](https://sms.shajon.dev)
